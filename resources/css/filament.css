@@ -1,0 +1,7 @@
+@import '../../vendor/saade/filament-fullcalendar/resources/css/filament-fullcalendar.css';
+@import '../../vendor/filament/filament/resources/css/app.css';
+.filament-login-page{
+    background-image: url("../../public/YGg4.gif"), url("../../public/storage/layout/desktop/backgroundNoText.png");
+    background-position: center;
+    background-size: cover;
+}

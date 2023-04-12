@@ -1,0 +1,1 @@
+<?php /**PATH /var/www/html/contracts/resources/views/view/contract/show.blade.php ENDPATH**/ ?>

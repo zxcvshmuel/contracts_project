@@ -1,0 +1,25 @@
+{
+  "public/YGg4.gif": {
+    "file": "assets/YGg4-1111afcd.gif",
+    "src": "public/YGg4.gif"
+  },
+  "resources/css/app.css": {
+    "file": "assets/app-60105c6a.css",
+    "isEntry": true,
+    "src": "resources/css/app.css"
+  },
+  "resources/css/filament.css": {
+    "file": "assets/filament-3b6003b3.css",
+    "isEntry": true,
+    "src": "resources/css/filament.css"
+  },
+  "resources/js/app.js": {
+    "file": "assets/app-52d66a0a.js",
+    "isEntry": true,
+    "src": "resources/js/app.js"
+  },
+  "storage/app/public/layout/desktop/backgroundNoText.png": {
+    "file": "assets/backgroundNoText-f00eee3d.png",
+    "src": "storage/app/public/layout/desktop/backgroundNoText.png"
+  }
+}

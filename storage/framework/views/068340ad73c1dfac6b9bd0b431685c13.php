@@ -1,0 +1,1 @@
+components.lyauts.master<?php /**PATH /var/www/html/contracts/storage/framework/views/a3f2b23591c852e37ef8687a47f0d1f2.blade.php ENDPATH**/ ?>

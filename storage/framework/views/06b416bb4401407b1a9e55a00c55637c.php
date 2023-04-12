@@ -1,0 +1,1 @@
+<?php /**PATH /var/www/html/contracts/resources/views/vendor/filament/components/global-search/end.blade.php ENDPATH**/ ?>
